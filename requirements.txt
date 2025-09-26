@@ -1,5 +1,5 @@
-pip>=25.2
-setuptools>=70.0
-wheel
+pip==25.2
+setuptools==70.0.0
+wheel==0.44.0
 python-telegram-bot==20.7
 Pillow==10.2.0
